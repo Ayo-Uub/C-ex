@@ -1,5 +1,3 @@
-#include <unistd.h>
-
 void ft_print_numbers(void) {
 
     int numbers = 0 ;
